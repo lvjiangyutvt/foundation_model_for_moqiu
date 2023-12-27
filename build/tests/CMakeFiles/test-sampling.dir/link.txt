@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-sampling.dir/test-sampling.cpp.o -o ../bin/test-sampling  ../libllama.a ../common/libcommon.a ../libllama.a 

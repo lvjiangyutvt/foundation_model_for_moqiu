@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/llava-cli.dir/llava-cli.cpp.o CMakeFiles/llava.dir/llava.cpp.o CMakeFiles/llava.dir/clip.cpp.o -o ../../bin/llava-cli  ../../common/libcommon.a ../../libllama.a ../../libllama.a 

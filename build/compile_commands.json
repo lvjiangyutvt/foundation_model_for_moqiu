@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build",
+  "command": "/usr/bin/cc -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wdouble-promotion -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -march=native -std=gnu11 -o CMakeFiles/ggml.dir/ggml.c.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml.c",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml.c"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build",
+  "command": "/usr/bin/cc -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wdouble-promotion -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -march=native -std=gnu11 -o CMakeFiles/ggml.dir/ggml-alloc.c.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml-alloc.c",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml-alloc.c"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build",
+  "command": "/usr/bin/cc -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wdouble-promotion -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -march=native -std=gnu11 -o CMakeFiles/ggml.dir/ggml-backend.c.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml-backend.c",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml-backend.c"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build",
+  "command": "/usr/bin/cc -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wdouble-promotion -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -march=native -std=gnu11 -o CMakeFiles/ggml.dir/ggml-quants.c.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml-quants.c",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/ggml-quants.c"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/llama.dir/llama.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/llama.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/llama.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/common",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600  -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/build_info.dir/build-info.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/build-info.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/build-info.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/common",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/common.dir/common.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/common.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/common.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/common",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/common.dir/sampling.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/sampling.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/sampling.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/common",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/common.dir/console.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/console.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/console.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/common",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/common.dir/grammar-parser.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/grammar-parser.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/grammar-parser.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/common",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/common.dir/train.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/train.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/train.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-quantize-fns.dir/test-quantize-fns.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-quantize-fns.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-quantize-fns.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-quantize-perf.dir/test-quantize-perf.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-quantize-perf.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-quantize-perf.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-sampling.dir/test-sampling.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-sampling.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-sampling.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-tokenizer-0-llama.dir/test-tokenizer-0-llama.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-0-llama.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-0-llama.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-tokenizer-0-falcon.dir/test-tokenizer-0-falcon.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-0-falcon.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-0-falcon.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-tokenizer-1-llama.dir/test-tokenizer-1-llama.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-1-llama.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-1-llama.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-tokenizer-1-bpe.dir/test-tokenizer-1-bpe.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-1-bpe.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-tokenizer-1-bpe.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-grammar-parser.dir/test-grammar-parser.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-grammar-parser.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-grammar-parser.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-llama-grammar.dir/test-llama-grammar.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-llama-grammar.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-llama-grammar.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-grad0.dir/test-grad0.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-grad0.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-grad0.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/test-rope.dir/test-rope.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-rope.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-rope.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/tests",
+  "command": "/usr/bin/cc -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wdouble-promotion -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -march=native -std=gnu11 -o CMakeFiles/test-c.dir/test-c.c.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-c.c",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/tests/test-c.c"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/baby-llama",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/baby-llama.dir/baby-llama.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/baby-llama/baby-llama.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/baby-llama/baby-llama.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/batched",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/batched.dir/batched.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/batched/batched.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/batched/batched.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/batched-bench",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/batched-bench.dir/batched-bench.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/batched-bench/batched-bench.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/batched-bench/batched-bench.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/beam-search",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/beam-search.dir/beam-search.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/beam-search/beam-search.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/beam-search/beam-search.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/benchmark",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/benchmark/../../common -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/benchmark.dir/benchmark-matmult.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/benchmark/benchmark-matmult.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/benchmark/benchmark-matmult.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/convert-llama2c-to-ggml",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/convert-llama2c-to-ggml.dir/convert-llama2c-to-ggml.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/embedding",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/embedding.dir/embedding.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/embedding/embedding.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/embedding/embedding.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/finetune",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/finetune.dir/finetune.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/finetune/finetune.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/finetune/finetune.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/infill",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/infill.dir/infill.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/infill/infill.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/infill/infill.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/llama-bench",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/llama-bench.dir/llama-bench.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llama-bench/llama-bench.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llama-bench/llama-bench.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/llava",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../.. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../../common -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -Wno-cast-qual -std=gnu++11 -o CMakeFiles/llava.dir/llava.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/llava.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/llava.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/llava",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../.. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../../common -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -Wno-cast-qual -std=gnu++11 -o CMakeFiles/llava.dir/clip.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/clip.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/clip.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/llava",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../.. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../../common -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/llava-cli.dir/llava-cli.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/llava-cli.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/llava-cli.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/main",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/main/main.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/main/main.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/parallel",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/parallel.dir/parallel.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/parallel/parallel.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/parallel/parallel.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/perplexity",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/perplexity.dir/perplexity.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/perplexity/perplexity.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/perplexity/perplexity.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/quantize",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/quantize/../../common -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/quantize.dir/quantize.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/quantize/quantize.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/quantize/quantize.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/quantize-stats",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/quantize-stats/../../common -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/quantize-stats.dir/quantize-stats.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/quantize-stats/quantize-stats.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/quantize-stats/quantize-stats.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/save-load-state",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/save-load-state.dir/save-load-state.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/save-load-state/save-load-state.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/save-load-state/save-load-state.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/simple",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/simple.dir/simple.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/simple/simple.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/simple/simple.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/speculative",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/speculative.dir/speculative.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/speculative/speculative.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/speculative/speculative.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/train-text-from-scratch",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/train-text-from-scratch.dir/train-text-from-scratch.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/train-text-from-scratch/train-text-from-scratch.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/train-text-from-scratch/train-text-from-scratch.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/server",
+  "command": "/usr/bin/c++ -DSERVER_VERBOSE=1 -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/server -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../.. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/llava/../../common -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/server.dir/server.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/server/server.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/server/server.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/examples/export-lora",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/export-lora.dir/export-lora.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/export-lora/export-lora.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/examples/export-lora/export-lora.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/pocs/vdot",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/pocs -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/vdot.dir/vdot.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/pocs/vdot/vdot.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/pocs/vdot/vdot.cpp"
+},
+{
+  "directory": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/build/pocs/vdot",
+  "command": "/usr/bin/c++ -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/pocs -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/common/. -I/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/. -O3 -DNDEBUG -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wno-format-truncation -Wextra-semi -march=native -std=gnu++11 -o CMakeFiles/q8dot.dir/q8dot.cpp.o -c /home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/pocs/vdot/q8dot.cpp",
+  "file": "/home/ljy/PycharmProjects/foundation_model_for_moqiu/PowerInfer/pocs/vdot/q8dot.cpp"
+}
+]

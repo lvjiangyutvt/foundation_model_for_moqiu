@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-grad0.dir/test-grad0.cpp.o -o ../bin/test-grad0  ../libllama.a ../common/libcommon.a ../libllama.a 

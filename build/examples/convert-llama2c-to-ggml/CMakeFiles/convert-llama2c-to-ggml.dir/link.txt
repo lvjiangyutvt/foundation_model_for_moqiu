@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/convert-llama2c-to-ggml.dir/convert-llama2c-to-ggml.cpp.o -o ../../bin/convert-llama2c-to-ggml  ../../common/libcommon.a ../../libllama.a 

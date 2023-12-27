@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/q8dot.dir/q8dot.cpp.o -o ../../bin/q8dot  ../../common/libcommon.a ../../libllama.a 

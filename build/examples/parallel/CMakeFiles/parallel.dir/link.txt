@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/parallel.dir/parallel.cpp.o -o ../../bin/parallel  ../../common/libcommon.a ../../libllama.a 

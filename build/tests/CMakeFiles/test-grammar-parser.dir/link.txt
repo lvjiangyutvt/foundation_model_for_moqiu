@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-grammar-parser.dir/test-grammar-parser.cpp.o -o ../bin/test-grammar-parser  ../libllama.a ../common/libcommon.a ../libllama.a 

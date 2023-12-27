@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/vdot.dir/vdot.cpp.o -o ../../bin/vdot  ../../common/libcommon.a ../../libllama.a 

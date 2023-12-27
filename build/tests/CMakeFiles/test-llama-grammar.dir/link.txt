@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-llama-grammar.dir/test-llama-grammar.cpp.o -o ../bin/test-llama-grammar  ../libllama.a ../common/libcommon.a ../libllama.a 

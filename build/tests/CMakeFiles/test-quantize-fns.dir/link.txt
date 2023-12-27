@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-quantize-fns.dir/test-quantize-fns.cpp.o -o ../bin/test-quantize-fns  ../libllama.a ../common/libcommon.a ../libllama.a 

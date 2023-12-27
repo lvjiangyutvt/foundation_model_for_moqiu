@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/batched.dir/batched.cpp.o -o ../../bin/batched  ../../common/libcommon.a ../../libllama.a 

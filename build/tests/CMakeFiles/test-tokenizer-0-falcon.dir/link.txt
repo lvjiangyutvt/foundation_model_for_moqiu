@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-tokenizer-0-falcon.dir/test-tokenizer-0-falcon.cpp.o -o ../bin/test-tokenizer-0-falcon  ../libllama.a ../common/libcommon.a ../libllama.a 

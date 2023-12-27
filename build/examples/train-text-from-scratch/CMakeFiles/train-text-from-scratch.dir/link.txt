@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/train-text-from-scratch.dir/train-text-from-scratch.cpp.o -o ../../bin/train-text-from-scratch  ../../common/libcommon.a ../../libllama.a 

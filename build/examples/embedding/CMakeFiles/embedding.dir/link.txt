@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/embedding.dir/embedding.cpp.o -o ../../bin/embedding  ../../common/libcommon.a ../../libllama.a 

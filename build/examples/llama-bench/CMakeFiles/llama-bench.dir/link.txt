@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/llama-bench.dir/llama-bench.cpp.o -o ../../bin/llama-bench  ../../common/libcommon.a ../../libllama.a 
