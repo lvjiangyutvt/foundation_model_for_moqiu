@@ -1,1 +1,0 @@
-PowerInfer/build/bin/quantize ReluLLaMA-7B-PowerInfer-GGUF/llama-7b-relu.powerinfer.gguf ReluLLaMA-7B-PowerInfer-GGUF_Q8_0/llama-7b-relu_Q8_0.powerinfer.gguf Q8_0
